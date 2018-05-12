@@ -17,7 +17,7 @@ namespace Lab4
 
             ListGood.Add(new Book(book_Sale, "Мастер и маргарита", 250, "Булгаков", "Роман", "Эксмо"));
             ListGood.Add(new Book(book_Sale, "Война и мир", 350, "Толстой", "Роман", "Эксмо"));
-
+            ListGood.Add(new Good(notebook_Sale, "Животные", 60));
             ListGood.Add(new Good(journal_Sale, "Вестник", 150));
             ListGood.Add(new Good(notebook_Sale, "Цветы", 60));
             ListGood.Add(new Book(book_Sale, "Преступление и наказание", 300, "Достоевский", "Роман", "Эксмо"));
