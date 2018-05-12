@@ -1,0 +1,6 @@
+H:\Программирование\Лабы\Lab4\Lab4\bin\Debug\Lab4.exe.config
+H:\Программирование\Лабы\Lab4\Lab4\bin\Debug\Lab4.exe
+H:\Программирование\Лабы\Lab4\Lab4\bin\Debug\Lab4.pdb
+H:\Программирование\Лабы\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+H:\Программирование\Лабы\Lab4\Lab4\obj\Debug\Lab4.exe
+H:\Программирование\Лабы\Lab4\Lab4\obj\Debug\Lab4.pdb
